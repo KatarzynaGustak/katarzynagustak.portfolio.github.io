@@ -1,1 +1,7 @@
+title: Moje Portfolio
+description: Portfolio z menu nawigacyjnym z boku
+author: Twoje Imię
+baseurl: "" # Pozostaw puste, jeśli publikujesz na głównym repozytorium GitHub Pages
+url: "https://your-username.github.io" # Zmień na swoją nazwę użytkownika
+theme: minima
 
